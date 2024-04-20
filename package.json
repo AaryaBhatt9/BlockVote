@@ -1,0 +1,15 @@
+{
+  "name": "blockvote",
+  "version": "1.0.0",
+  "description": "This project is blockchain based voting dapp created in React and Solidity.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node your-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
